@@ -13,4 +13,11 @@
 -administrasi sistem jaringan
 -wide area network
 -bimbingan konseling
-dan lain-lain
+
+++ skill yang diperoleh di rucom ++
+-mengetik 10 jari
+-freecodecamp.org responsive web design (html,css,and javasripct)
+
+-visual studio code
+-sololearn (introduction to html,introduction to css,introduction to jQuery,introduction to JavaScript,coding for maketers,Responsive web design,web development fundamentals)
+-buat akun Linkedin dan menghubungkan sertifikasi sololearn
